@@ -19,4 +19,4 @@ const MyFirstComponent = function() {
   );
 };
 
-ReactDOM.render(ce(MyFirstComponent), document.getElementById('app'));
+render(ce(MyFirstComponent), document.getElementById('app'));
